@@ -33,3 +33,7 @@ A análise permitiu identificar diferenças na idade média entre as cidades e v
 
 ## 🖥️ Dashboard
 O dashboard foi desenvolvido no Power BI contendo gráficos de barras, pizza, tabela e filtros interativos.
+## 📎 Arquivos do Projeto
+- Scripts Python disponíveis na pasta `scripts`
+- Dados em CSV na pasta `dados`
+- Dashboard em PDF na pasta `dashboard`
